@@ -1,0 +1,18 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "DogSkyBlock",
+    "version": [1, 0, 0],
+    "uuid": "b65b7ae8-a3a4-4449-9ca8-f626c1ba6612"
+  },
+  "modules": [
+    {
+      "version": [1, 0, 0],
+      "type": "skin_pack",
+      "uuid": "b6648097-6aee-4c7f-aa3d-456b68d194e6"
+    }
+  ],
+  "metadata" : {
+		"authors" : [ "JonesPawa" ]
+	}
+}

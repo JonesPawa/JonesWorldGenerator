@@ -1,0 +1,13 @@
+{
+  "skins":
+  [
+{
+	"localization_name": "James",
+	"geometry": "geometry.humanoid.customSlim",
+	"texture": "1James_customSlim.png",
+	"type": "paid"
+}
+  ],
+  "serialize_name": "DogSkyBlock",
+  "localization_name": "DogSkyBlock"
+}
