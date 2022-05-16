@@ -2,12 +2,18 @@
   "skins":
   [
 {
-	"localization_name": "James",
+	"localization_name": "David",
 	"geometry": "geometry.humanoid.customSlim",
-	"texture": "1James_customSlim.png",
+	"texture": "1David_customSlim.png",
+	"type": "paid"
+},
+{
+	"localization_name": "Emma",
+	"geometry": "geometry.humanoid.customSlim",
+	"texture": "2Emma_customSlim.png",
 	"type": "paid"
 }
   ],
-  "serialize_name": "DogSkyBlock",
-  "localization_name": "DogSkyBlock"
+  "serialize_name": "RainbowLuckyBlockSkyblock",
+  "localization_name": "RainbowLuckyBlockSkyblock"
 }

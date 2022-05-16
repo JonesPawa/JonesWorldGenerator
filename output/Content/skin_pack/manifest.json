@@ -1,15 +1,15 @@
 {
   "format_version": 1,
   "header": {
-    "name": "DogSkyBlock",
+    "name": "RainbowLuckyBlockSkyblock",
     "version": [1, 0, 0],
-    "uuid": "b65b7ae8-a3a4-4449-9ca8-f626c1ba6612"
+    "uuid": "6241d237-b910-462a-803b-369e20ce558c"
   },
   "modules": [
     {
       "version": [1, 0, 0],
       "type": "skin_pack",
-      "uuid": "b6648097-6aee-4c7f-aa3d-456b68d194e6"
+      "uuid": "c2419ff5-836e-4d3f-b91c-170046785b28"
     }
   ],
   "metadata" : {

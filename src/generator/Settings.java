@@ -3,14 +3,15 @@ package generator;
 import generator.content_types.SkinType;
 
 public class Settings {
-    public static final String PACK_NAME = "Dog SkyBlock";
+    public static final String PACK_NAME = "Rainbow Lucky Block Skyblock";
     public static final boolean UPDATE = false; // Keeps a static UUID
     public static final SkinType SKIN_TYPE = SkinType.CUSTOM_SLIM;
     public static final boolean SORT_BY_ALPHABET = true;
     public static final int[] FREE_SKIN_NUMBERS = {};
     public static final int[] CUSTOM_SKIN_TYPE_NUMBERS = {};
     public static final String[] SKIN_NAMES = {
-            "James"
+            "David",
+            "Emma"
     };
 
     public static final Integer[] SKIN_NUMBERS = {
